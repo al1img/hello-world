@@ -2,7 +2,8 @@
   "configuration": {
     "private_key": "private_key.pem",
     "certificate": "sp-client.pem",
-    "remove_non_regular_files": true
+    "remove_non_regular_files": true,
+    "default_state": "state.txt"
   },
   "meta": {
     "application": {
@@ -14,8 +15,5 @@
         "python3", "vis_client_example.py"
       ]
     }
-  },
-  "quotas": {
-    "cpu_limit": 50
   }
 }
