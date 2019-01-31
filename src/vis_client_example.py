@@ -28,7 +28,7 @@ VIS_URL = "wss://wwwivi:8088/"
 # Go to https://webhook.site/#/ copy and paste server link to HTTP_REQUEST_RECEIVER_URL
 HTTP_REQUEST_RECEIVER_URL = "https://webhook.site/8bdc6c40-20d3-48be-a8f2-14ba6a6a0034"
 
-DATA_SENDING_DELAY = 2
+DATA_SENDING_DELAY = 3
 WAIT_TIMEOUT = 5
 DELAY_AFTER_ERROR = 2
 
