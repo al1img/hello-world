@@ -30,7 +30,7 @@ HTTP_REQUEST_RECEIVER_URL = "https://webhook.site/8bdc6c40-20d3-48be-a8f2-14ba6a
 
 DATA_SENDING_DELAY = 3
 WAIT_TIMEOUT = 5
-DELAY_AFTER_ERROR = 3
+DELAY_AFTER_ERROR = 4
 
 
 def main():
